@@ -12,8 +12,8 @@ AI-Powered Responses: Utilizes Gemini AI for advanced natural language understan
 Customizable: Includes custom CSS styling for a visually appealing design.
 
 ## Installation
-git clone https://github.com/your-username/your-repository.git
-cd your-repository
+- git clone https://github.com/Prachikumari1008/Gemini_AI_ChatBot.git
+- cd your-repository
 
 ## Install dependencies:
 pip install -r requirements.txt
