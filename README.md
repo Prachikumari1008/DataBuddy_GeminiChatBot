@@ -11,6 +11,10 @@ AI-Powered Responses: Utilizes Gemini AI for advanced natural language understan
 
 Customizable: Includes custom CSS styling for a visually appealing design.
 
+## Demo
+
+![image](https://github.com/Prachikumari1008/Image_Sketch_Using_OpenCV/assets/85853135/fac39fb2-96a7-41f7-a14a-ecd4d5392982)
+
 ## Installation
 - git clone https://github.com/Prachikumari1008/Gemini_AI_ChatBot.git
 - cd your-repository
