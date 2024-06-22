@@ -13,7 +13,8 @@ Customizable: Includes custom CSS styling for a visually appealing design.
 
 ## Demo
 
-![image](https://github.com/Prachikumari1008/Image_Sketch_Using_OpenCV/assets/85853135/fac39fb2-96a7-41f7-a14a-ecd4d5392982)
+![image](https://github.com/Prachikumari1008/Gemini_AI_ChatBot/assets/85853135/69b41942-5553-4e35-bffc-dc868aff5cdb)
+
 
 ## Installation
 - git clone https://github.com/Prachikumari1008/Gemini_AI_ChatBot.git
